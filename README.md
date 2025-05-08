@@ -62,7 +62,7 @@ Here are a few repositories that showcase my interests and skills:
 
 ---
 
-Thanks for stopping by! Feel free to check out the <a href="https://github.com/ssrahoo?tab=repositories">repos</a>, star what you like, or <a href="https://www.linkedin.com/in/suryalall/">connect</a> with me if you’re interested in collaboration or just want to talk!
+Thanks for stopping by! Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a>, star what resonates with you, or <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential freelance or employment opportunities, or simply exploring new projects or ideas. I'm always open to connecting!
 
 <!--
 
