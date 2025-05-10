@@ -44,16 +44,6 @@ Here are a few repositories that showcase my interests and skills:
 
 ---
 
-### </> Languages I'm Most Familiar With
-
-🔹C++ </br>
-🔹Java </br>
-🔹JavaScript </br>
-🔹PHP </br>
-🔹Python </br>
-
----
-
 ### 🌍 Where to Find Me
 
 🔹[LinkedIn](https://www.linkedin.com/in/suryalall/) </br>
@@ -62,7 +52,7 @@ Here are a few repositories that showcase my interests and skills:
 
 ---
 
-Thanks for stopping by! Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a>, star what resonates with you, or <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential freelance or employment opportunities, or simply exploring new projects or ideas. I'm always open to connecting!
+Thanks for stopping by! Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a>, star what resonates with you, or <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential freelance or employment opportunities, or simply exploring new projects or ideas. 
 
 <!--
 
