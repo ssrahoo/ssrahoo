@@ -31,7 +31,7 @@ Here are a few repositories that showcase my interests and skills:
       <a href="https://github.com/ssrahoo/the-simpsons-quote-app">
         <strong>the-simpsons-quote-app</strong>
       </a><br>
-      A sleek Android app that randomly displays quotes from The Simpsons, featuring character images and names.
+      A sleek Android app that displays random quotes from The Simpsons, featuring character images and names.
     </td>
     <td width="33%">
       <a href="https://github.com/ssrahoo/the-simpsons-quote-app">
