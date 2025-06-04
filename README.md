@@ -1,8 +1,6 @@
 # 👋 Hey there
 
-I am a professional with a broad range of experience — from full-stack web development and mobile integration to AI research, hands-on infrastructure, troubleshooting, and system administration work. My background includes building enterprise web applications, integrating mobile platforms, applying sentiment analysis and deep image restoration techniques to real-world data, and solving practical problems across diverse environments.
-
-I enjoy moving between disciplines, picking up new tools, and finding simple solutions to complex challenges. Whether it's improving existing systems or building something entirely new, what ties all my work together is a passion for thoughtfully turning ideas into reliable, user-focused software.
+I am a professional with a background in information technology. I enjoy moving between disciplines, picking up new tools, and finding simple solutions to complex challenges. Whether it's improving existing systems or building something entirely new, what ties all my work together is a passion for thoughtfully turning ideas into reliable, user-focused software.
 
 ---
 
