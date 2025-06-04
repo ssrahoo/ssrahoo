@@ -58,14 +58,6 @@ Here are a few repositories that showcase my interests and skills:
 
 ---
 
-### 🌍 Where to Find Me
-
-🔹[LinkedIn](https://www.linkedin.com/in/suryalall/) </br>
-🔹Also active on: [CodinGame](https://www.codingame.com/profile/99d843ec69f461126882c8d5409ffb4b6526485) and [HackerRank](https://www.hackerrank.com/profile/surysrahoo) 
-![](https://komarev.com/ghpvc/?username=ssrahoo&style=pixel)
-
----
-
 Thanks for stopping by! Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a>, star what resonates with you, or <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential freelance or employment opportunities, or simply exploring new projects or ideas. 
 
 <!--
