@@ -37,6 +37,21 @@ Here are a few repositories that showcase my interests and skills:
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ssrahoo/ui-prototypes">
+        <strong>ui-prototypes</strong>
+      </a><br>
+      Front-end prototypes and mini-projects with various web UI designs and technologies.
+    </td>
+    <td width="33%">
+      <a href="https://github.com/ssrahoo/ui-prototypes">
+        <img src="https://raw.githubusercontent.com/ssrahoo/ui-prototypes/master/img/ui-prototypes.png" alt="ui-prototypes" width="100%">
+      </a>
+    </td>
+  </tr>
+
   
   <tr>
     <td>
