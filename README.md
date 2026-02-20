@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I am a professional with a background in information technology. I enjoy moving between disciplines, picking up new tools, and finding simple solutions to complex challenges. Whether it's improving existing systems or building something entirely new, what ties all my work together is a passion for thoughtfully turning ideas into reliable, user-focused software.
+This is my Java portfolio. It highlights backend architecture, clean code practices, and data-driven systems. 
 
 ---
 
@@ -40,7 +40,7 @@ I am a professional with a background in information technology. I enjoy moving 
 
 ---
 
-Thanks for stopping by! Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a>, star what resonates with you, or <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential freelance or employment opportunities, or simply exploring new projects or ideas. 
+Thanks for stopping by. Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a> and <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential opportunities, or simply exploring new projects and ideas.
 
 <!--
 
