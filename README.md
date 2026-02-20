@@ -38,35 +38,6 @@ Here are a few repositories that showcase my interests and skills:
     </td>
   </tr>
 
-  <tr>
-    <td>
-      <a href="https://github.com/ssrahoo/ui-prototypes">
-        <strong>ui-prototypes</strong>
-      </a><br>
-      Front-end prototypes and mini-projects with various web UI designs and technologies.
-    </td>
-    <td width="33%">
-      <a href="https://github.com/ssrahoo/ui-prototypes">
-        <img src="https://raw.githubusercontent.com/ssrahoo/ui-prototypes/master/img/ui-prototypes.png" alt="ui-prototypes" width="100%">
-      </a>
-    </td>
-  </tr>
-
-  
-  <tr>
-    <td>
-      <a href="https://github.com/ssrahoo/url2gallery">
-        <strong>url2gallery</strong>
-      </a><br>
-      A web app that began as a masonry-layout photo gallery and evolved into a tool that extracts and displays images from virtually any website.
-    </td>
-    <td width="33%">
-      <a href="https://github.com/ssrahoo/url2gallery">
-        <img src="https://raw.githubusercontent.com/ssrahoo/url2gallery/main/img/url2gallery.jpg" alt="url2gallery" width="100%">
-      </a>
-    </td>
-  </tr>
-  
 </table>
 
 ---
