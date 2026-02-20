@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-This is my Java portfolio. It highlights backend architecture, clean code practices, and data-driven systems. Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a> and <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing potential opportunities, or simply exploring new projects and ideas.
+This is my Java portfolio. It highlights backend architecture, clean code practices, and data-driven systems. Feel free to explore my <a href="https://github.com/ssrahoo?tab=repositories">repositories</a> and <a href="https://www.linkedin.com/in/suryalall/">reach out</a> if you're interested in collaborating, discussing new opportunities, or simply exploring potential ideas.
 
 ---
 
