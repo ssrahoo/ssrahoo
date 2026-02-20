@@ -40,7 +40,6 @@ This is my Java portfolio. It highlights backend architecture, clean code practi
 
 ---
 
-Thanks for stopping by. 
 
 <!--
 
