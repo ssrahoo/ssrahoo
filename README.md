@@ -6,8 +6,6 @@ I am a professional with a background in information technology. I enjoy moving 
 
 ### 🚀 Featured Repos
 
-Here are a few repositories that showcase my interests and skills:
-
 <table>
 
   <tr>
@@ -15,7 +13,7 @@ Here are a few repositories that showcase my interests and skills:
       <a href="https://github.com/ssrahoo/marketplace-api">
         <strong>marketplace-api</strong>
       </a><br>
-      The backend engine of a RESTful e-commerce application with data persistence and the complete set of endpoints for managing users, products, transactions and reviews.
+      The backend engine of a Spring Boot e-commerce application with data persistence and the complete set of endpoints for managing users, products, transactions and reviews.
     </td>
     <td width="33%">
       <a href="https://github.com/ssrahoo/marketplace-api">
