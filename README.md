@@ -19,7 +19,7 @@ Here are a few repositories that showcase my interests and skills:
     </td>
     <td width="33%">
       <a href="https://github.com/ssrahoo/marketplace-api">
-        <img src="https://raw.githubusercontent.com/ssrahoo/marketplace-api/master/img/marketplace-api.jpg" alt="marketplace-api" width="100%">
+        <img src="https://raw.githubusercontent.com/ssrahoo/marketplace-api/master/assets/marketplace-api.jpg" alt="marketplace-api" width="100%">
       </a>
     </td>
   </tr>
