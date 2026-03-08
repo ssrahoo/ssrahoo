@@ -17,7 +17,7 @@ Here I showcase some of my skills with backend architecture, clean code practice
     </td>
     <td width="33%">
       <a href="https://github.com/ssrahoo/event-driven-order-system">
-        <img src="https://raw.githubusercontent.com/ssrahoo/event-driven-order-system/master/assets/event-driven-order-system.jpg" alt="event-driven-order-system" width="100%">
+        <img src="https://raw.githubusercontent.com/ssrahoo/event-driven-order-system/dev/assets/event-driven-order-system.jpg" alt="event-driven-order-system" width="100%">
       </a>
     </td>
   </tr>
