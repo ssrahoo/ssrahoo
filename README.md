@@ -8,6 +8,20 @@ Here I showcase some of my skills with backend architecture, clean code practice
 
 <table>
 
+ <tr>
+    <td>
+      <a href="https://github.com/ssrahoo/event-driven-order-system">
+        <strong>event-driven-order-system</strong>
+      </a><br>
+      A distributed event-driven order processing system built with a microservices architecture, Spring Boot, RabbitMQ, MySQL, and Docker. The system consists of independent Order, Payment, Inventory, and Notification services that communicate asynchronously through domain events. Implemented several reliability patterns commonly used in production systems, including idempotent message processing, retry logic for transient failures, and the Transactional Outbox Pattern to guarantee reliable event publishing. The architecture follows database-per-service principles and demonstrates how complex workflows such as order creation, payment processing, and inventory reservation can be coordinated through asynchronous messaging rather than synchronous service calls.
+    </td>
+    <td width="33%">
+      <a href="https://github.com/ssrahoo/event-driven-order-system">
+        <img src="https://raw.githubusercontent.com/ssrahoo/event-driven-order-system/master/assets/event-driven-order-system.jpg" alt="event-driven-order-system" width="100%">
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td>
       <a href="https://github.com/ssrahoo/marketplace-api">
